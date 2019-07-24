@@ -1,0 +1,9 @@
+C:\Users\doduor\source\repos\EHire\EHire.Infrastructure\bin\Debug\netcoreapp2.2\EHire.Infrastructure.deps.json
+C:\Users\doduor\source\repos\EHire\EHire.Infrastructure\bin\Debug\netcoreapp2.2\EHire.Infrastructure.dll
+C:\Users\doduor\source\repos\EHire\EHire.Infrastructure\bin\Debug\netcoreapp2.2\EHire.Infrastructure.pdb
+C:\Users\doduor\source\repos\EHire\EHire.Infrastructure\obj\Debug\netcoreapp2.2\EHire.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\doduor\source\repos\EHire\EHire.Infrastructure\obj\Debug\netcoreapp2.2\EHire.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\doduor\source\repos\EHire\EHire.Infrastructure\obj\Debug\netcoreapp2.2\EHire.Infrastructure.AssemblyInfo.cs
+C:\Users\doduor\source\repos\EHire\EHire.Infrastructure\obj\Debug\netcoreapp2.2\EHire.Infrastructure.dll
+C:\Users\doduor\source\repos\EHire\EHire.Infrastructure\obj\Debug\netcoreapp2.2\EHire.Infrastructure.pdb
+C:\Users\doduor\source\repos\EHire\EHire.Infrastructure\obj\Debug\netcoreapp2.2\EHire.Infrastructure.csprojAssemblyReference.cache

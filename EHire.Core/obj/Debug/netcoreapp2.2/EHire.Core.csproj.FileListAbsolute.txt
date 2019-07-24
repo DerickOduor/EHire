@@ -1,0 +1,11 @@
+C:\Users\doduor\source\repos\EHire\EHire.Core\bin\Debug\netcoreapp2.2\EHire.Core.deps.json
+C:\Users\doduor\source\repos\EHire\EHire.Core\bin\Debug\netcoreapp2.2\EHire.Core.runtimeconfig.json
+C:\Users\doduor\source\repos\EHire\EHire.Core\bin\Debug\netcoreapp2.2\EHire.Core.runtimeconfig.dev.json
+C:\Users\doduor\source\repos\EHire\EHire.Core\bin\Debug\netcoreapp2.2\EHire.Core.dll
+C:\Users\doduor\source\repos\EHire\EHire.Core\bin\Debug\netcoreapp2.2\EHire.Core.pdb
+C:\Users\doduor\source\repos\EHire\EHire.Core\obj\Debug\netcoreapp2.2\EHire.Core.csproj.CoreCompileInputs.cache
+C:\Users\doduor\source\repos\EHire\EHire.Core\obj\Debug\netcoreapp2.2\EHire.Core.AssemblyInfoInputs.cache
+C:\Users\doduor\source\repos\EHire\EHire.Core\obj\Debug\netcoreapp2.2\EHire.Core.AssemblyInfo.cs
+C:\Users\doduor\source\repos\EHire\EHire.Core\obj\Debug\netcoreapp2.2\EHire.Core.dll
+C:\Users\doduor\source\repos\EHire\EHire.Core\obj\Debug\netcoreapp2.2\EHire.Core.pdb
+C:\Users\doduor\source\repos\EHire\EHire.Core\obj\Debug\netcoreapp2.2\EHire.Core.csprojAssemblyReference.cache

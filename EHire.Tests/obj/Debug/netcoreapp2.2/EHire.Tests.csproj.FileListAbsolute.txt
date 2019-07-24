@@ -1,0 +1,14 @@
+C:\Users\doduor\source\repos\EHire\EHire.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\doduor\source\repos\EHire\EHire.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\doduor\source\repos\EHire\EHire.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\doduor\source\repos\EHire\EHire.Tests\bin\Debug\netcoreapp2.2\EHire.Tests.deps.json
+C:\Users\doduor\source\repos\EHire\EHire.Tests\bin\Debug\netcoreapp2.2\EHire.Tests.runtimeconfig.json
+C:\Users\doduor\source\repos\EHire\EHire.Tests\bin\Debug\netcoreapp2.2\EHire.Tests.runtimeconfig.dev.json
+C:\Users\doduor\source\repos\EHire\EHire.Tests\bin\Debug\netcoreapp2.2\EHire.Tests.dll
+C:\Users\doduor\source\repos\EHire\EHire.Tests\bin\Debug\netcoreapp2.2\EHire.Tests.pdb
+C:\Users\doduor\source\repos\EHire\EHire.Tests\obj\Debug\netcoreapp2.2\EHire.Tests.csprojAssemblyReference.cache
+C:\Users\doduor\source\repos\EHire\EHire.Tests\obj\Debug\netcoreapp2.2\EHire.Tests.csproj.CoreCompileInputs.cache
+C:\Users\doduor\source\repos\EHire\EHire.Tests\obj\Debug\netcoreapp2.2\EHire.Tests.AssemblyInfoInputs.cache
+C:\Users\doduor\source\repos\EHire\EHire.Tests\obj\Debug\netcoreapp2.2\EHire.Tests.AssemblyInfo.cs
+C:\Users\doduor\source\repos\EHire\EHire.Tests\obj\Debug\netcoreapp2.2\EHire.Tests.dll
+C:\Users\doduor\source\repos\EHire\EHire.Tests\obj\Debug\netcoreapp2.2\EHire.Tests.pdb

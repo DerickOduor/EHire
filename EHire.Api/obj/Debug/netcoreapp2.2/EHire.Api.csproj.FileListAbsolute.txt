@@ -1,0 +1,17 @@
+C:\Users\doduor\source\repos\EHire\EHire.Api\bin\Debug\netcoreapp2.2\EHire.Api.deps.json
+C:\Users\doduor\source\repos\EHire\EHire.Api\bin\Debug\netcoreapp2.2\EHire.Api.runtimeconfig.json
+C:\Users\doduor\source\repos\EHire\EHire.Api\bin\Debug\netcoreapp2.2\EHire.Api.runtimeconfig.dev.json
+C:\Users\doduor\source\repos\EHire\EHire.Api\bin\Debug\netcoreapp2.2\EHire.Api.dll
+C:\Users\doduor\source\repos\EHire\EHire.Api\bin\Debug\netcoreapp2.2\EHire.Api.pdb
+C:\Users\doduor\source\repos\EHire\EHire.Api\bin\Debug\netcoreapp2.2\EHire.Core.dll
+C:\Users\doduor\source\repos\EHire\EHire.Api\bin\Debug\netcoreapp2.2\EHire.Core.pdb
+C:\Users\doduor\source\repos\EHire\EHire.Api\obj\Debug\netcoreapp2.2\EHire.Api.csprojAssemblyReference.cache
+C:\Users\doduor\source\repos\EHire\EHire.Api\obj\Debug\netcoreapp2.2\EHire.Api.csproj.CoreCompileInputs.cache
+C:\Users\doduor\source\repos\EHire\EHire.Api\obj\Debug\netcoreapp2.2\EHire.Api.RazorAssemblyInfo.cache
+C:\Users\doduor\source\repos\EHire\EHire.Api\obj\Debug\netcoreapp2.2\EHire.Api.RazorAssemblyInfo.cs
+C:\Users\doduor\source\repos\EHire\EHire.Api\obj\Debug\netcoreapp2.2\EHire.Api.AssemblyInfoInputs.cache
+C:\Users\doduor\source\repos\EHire\EHire.Api\obj\Debug\netcoreapp2.2\EHire.Api.AssemblyInfo.cs
+C:\Users\doduor\source\repos\EHire\EHire.Api\obj\Debug\netcoreapp2.2\EHire.Api.RazorTargetAssemblyInfo.cache
+C:\Users\doduor\source\repos\EHire\EHire.Api\obj\Debug\netcoreapp2.2\EHire.Api.csproj.CopyComplete
+C:\Users\doduor\source\repos\EHire\EHire.Api\obj\Debug\netcoreapp2.2\EHire.Api.dll
+C:\Users\doduor\source\repos\EHire\EHire.Api\obj\Debug\netcoreapp2.2\EHire.Api.pdb
